@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shotguiatecnico.com.br/sitemap.xml

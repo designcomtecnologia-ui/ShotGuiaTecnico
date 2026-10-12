@@ -1,0 +1,38 @@
+# SHOT — Guia Técnico
+
+Site oficial: https://shotguiatecnico.com.br/
+Produto: SHOT — Guia Técnico, por Claudio Romeiro, Ed. 2026.
+Preço atual: R$ 67,00.
+Formato: PDF.
+
+## O produto
+SHOT é um guia técnico de linguagem cinematográfica para estruturar prompts de geração de imagem e vídeo por Inteligência Artificial. O PDF final documenta 39 páginas e 12 capítulos.
+
+## 12 capítulos
+1. Câmera
+2. Lente
+3. Ângulo
+4. Enquadramento
+5. Abertura
+6. Luz
+7. Movimento
+8. Composição
+9. Cor / Grading
+10. Proporção de Tela
+11. Combinações
+12. Catálogo de Prompts
+
+## Método SHOT
+CÂMERA + LENTE + ÂNGULO + ENQUADRAMENTO + ABERTURA + LUZ + MOVIMENTO = SHOT
+
+## Movimento
+O guia cataloga 46 movimentos de câmera organizados em 7 categorias técnicas.
+
+## Prompts
+O catálogo inclui estruturas para imagem e vídeo (IMG + VID), com prompts em inglês e combinações de parâmetros técnicos.
+
+## Conteúdo de prévia
+A página comercial mostra amostras reais do PDF. A primeira prévia usa a imagem de capa apresentada em tablet, fornecida para a revisão V20.
+
+## Compra e entrega
+A compra começa pelo WhatsApp. O visitante entra no grupo, recebe as informações de pagamento, realiza o pagamento e, após a confirmação, recebe o PDF de forma privada pelo WhatsApp. O site não realiza entrega automática.
